@@ -15,3 +15,6 @@ Example of running script in C file:
 
 Example of running script in python file:  
 ![alt text](https://github.com/GloryToMoon/comments_search/blob/assets/python-example.png)
+
+Output:  
+![alt text](https://github.com/GloryToMoon/comments_search/blob/assets/output-example.png)
