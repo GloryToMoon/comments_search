@@ -11,7 +11,7 @@ Script support by default all c-like files: php, js, c++, c# and e.t.c.
 Argument --perl/-p support all perl-like files: python, ruby and e.t.c.
   
 Example of running script in C file:
-![alt text](https://github.com/GloryToMoon/windows_lfi_exploit/blob/assets/c-example.png)
+![alt text](https://github.com/GloryToMoon/comments_search/blob/assets/c-example.png)
 
 Example of running script in python file:
-![alt text](https://github.com/GloryToMoon/windows_lfi_exploit/blob/assets/python-example.png)
+![alt text](https://github.com/GloryToMoon/comments_search/blob/assets/python-example.png)
